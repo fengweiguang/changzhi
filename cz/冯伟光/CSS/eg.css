@@ -1,0 +1,26 @@
+.rightpic{
+	width:1620px;
+	height:520px;
+	position:absolute;
+	left:0;
+	top:0;
+	opacity: 0.8;
+}
+#container{
+	position: relative;
+	width:1620px;
+	height:520px;
+}
+canvas{ position: absolute;
+ 		backface-visibility: hidden;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+	 	-ms-backface-visibility: hidden;
+}
+img {
+	 position: absolute;
+	 -webkit-transition: opacity .3s;
+	transition: opacity .3s;
+	width:1620px;
+	height:520px;
+}

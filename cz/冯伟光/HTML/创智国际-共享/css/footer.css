@@ -1,0 +1,85 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    margin-top: 40px;
+}
+.w1200{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer-bga{
+    width: 100%;
+    height: 370px;
+    background-color: #36373b;
+}
+.footer-bgb{
+    width: 100%;
+    height: 70px;
+    background-color: #000;
+}
+.footer-bga dl{
+    margin-top: 40px;
+    float: left;
+    margin-right:75px;
+    /*width: 250px;*/
+}
+.footer-bga dl dt{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.footer-bga dl dd a{
+    color: #959597;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 34px;
+}
+.footer_nav{
+    float: left;
+    margin-right: 5px;
+    /*width: 20px;*/
+    /*height: 20px;*/
+    background: url("../images/电话.png") no-repeat;
+}
+.footer_nav_one{
+    background-position: -2px 0;
+}
+.footer_nav_tow{
+    background-position: -62px 0;
+}
+.footer_nav_three{
+    background-position: -33px 0;
+}
+.footer_nav_fore{
+    background-position: -100px 0;
+}
+.footer_nav_five{
+    background-position: -120px 0;
+}
+
+.footer-bgb p{
+    line-height: 70px;
+    color:#666;
+    font-size: 14px;
+    float: left;
+    margin-left: 10px;
+}
+.footer-bgb img{
+    float: right;
+    margin-top: 10px;
+}
+
+
+
+
+
+
